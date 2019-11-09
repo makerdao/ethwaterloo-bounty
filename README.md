@@ -22,13 +22,15 @@ MakerDAO will award 1500 DAI to the hack (or across multiple hacks) that focus o
 1. [Informational Blog Post: What to expect with the launch of multi collateral dai](https://blog.makerdao.com/what-to-expect-with-the-launch-of-multi-collateral-dai/)
 
 2. [MCD 101](https://github.com/makerdao/awesome-makerdao)
-2.  [How to Upgrade to Multi-Collateral Dai from Single-Collateral Dai](https://blog.makerdao.com/looking-ahead-how-to-upgrade-to-multi-collateral-dai/)
+3.  [How to Upgrade to Multi-Collateral Dai from Single-Collateral Dai](https://blog.makerdao.com/looking-ahead-how-to-upgrade-to-multi-collateral-dai/)
     
-3.  [Migrating Dai and CDPs to MCD on Kovan using Seth](https://github.com/makerdao/developerguides/blob/master/mcd/upgrading-to-multi-collateral-dai/cli-mcd-migration.md)
+4.  [Migrating Dai and CDPs to MCD on Kovan using Seth](https://github.com/makerdao/developerguides/blob/master/mcd/upgrading-to-multi-collateral-dai/cli-mcd-migration.md)
     
-4.  [SCD <> MCD Migration Contract](https://github.com/makerdao/scd-mcd-migration/blob/master/src/ScdMcdMigration.sol)
-5. [How to use mcd-cli to interact with Kovan deployment of MCD](https://github.com/makerdao/developerguides/blob/master/mcd/mcd-cli/mcd-cli-guide-01/mcd-cli-guide-01.md)
-    
+5.  [SCD <> MCD Migration Contract](https://github.com/makerdao/scd-mcd-migration/blob/master/src/ScdMcdMigration.sol)
+
+6. [How to use mcd-cli to interact with Kovan deployment of MCD](https://github.com/makerdao/developerguides/blob/master/mcd/mcd-cli/mcd-cli-guide-01/mcd-cli-guide-01.md)
+
+6. [Maker and Dai Logos](https://www.notion.so/makerdao/Maker-Brand-ac517c82ff9a43089d0db5bb2ee045a4) 
 
 ## Contact
 
