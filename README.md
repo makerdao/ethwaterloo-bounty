@@ -10,7 +10,10 @@ We’re looking for creative submissions that focus on supporting the migration 
 
 ## Prize & Criteria
 
-MakerDAO will award 1500 DAI to the hack (or across multiple hacks) that focus on supporting the migration and/or transition from SCD to MCD.
+MakerDAO will award 1500 DAI to the hack (or across multiple hacks) that focuses on supporting the migration and/or transition from SCD to MCD. This includes using one or both of the following: 
+- [Migration Contracts](https://github.com/makerdao/scd-mcd-migration/tree/master/src)
+    - [Migration Contract Functionality](https://github.com/makerdao/developerguides/blob/master/mcd/upgrading-to-multi-collateral-dai/upgrading-to-multi-collateral-dai.md#functionality)
+- [Dai.js](https://github.com/makerdao/dai.js/wiki)
 
 **Example Hack:** 
 [https://gitcoin.co/quests/59/upgrade-or-dai](https://gitcoin.co/quests/59/upgrade-or-dai)
